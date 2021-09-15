@@ -12,6 +12,12 @@ You can find here all the **open-source** projects that we (the [***Reality Bend
 - [**Pyllusion**](https://github.com/RealityBending/Pyllusion): 🤯 A Python module for generating visual illusions 
 - [**PyShaman**](https://github.com/RealityBending/PyShaman): 🧙‍♂️ A Python software for inducing altered states of consciousness
 
+
+## Tools and Templates
+
+- [**TemplateResults**](https://github.com/RealityBending/TemplateResults): 📂 A template to use for your Supplementary Materials
+
+
 ## Community, Jobs and Onboarding
 
 - [**Jobs**](https://github.com/RealityBending/jobs): 🤗 Check-out the opened positions in our team!
