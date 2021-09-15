@@ -14,5 +14,5 @@ You can find here all the **open-source** projects that we (the [***Reality Bend
 
 ## Community, Jobs and Onboarding
 
-- [**Jobs**](https://github.com/RealityBending/jobs): Check-out the opened positions in our team!
-- [**Onboarding**](https://github.com/RealityBending/Onboarding): The must-read survival guide for working with us ☺️
+- [**Jobs**](https://github.com/RealityBending/jobs): 🤗 Check-out the opened positions in our team!
+- [**Onboarding**](https://github.com/RealityBending/Onboarding): 🚋 The must-read survival guide for working with us ☺️
