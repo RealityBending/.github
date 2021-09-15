@@ -1,4 +1,4 @@
-# Reality Bending Lab (ReBeL) <img src='logo.png' align="right" height="139" />
+# Reality Bending Lab (ReBeL) <img src='https://github.com/RealityBending/.github/blob/main/profile/logo.png' align="right" height="139" />
 
 ***Were we forge the tools to help us analyze the word***
 
