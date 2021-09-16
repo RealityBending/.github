@@ -1,6 +1,6 @@
 # Reality Bending Lab (ReBeL) <img src='https://github.com/RealityBending/.github/blob/main/profile/logo.png' align="right" height="139" />
 
-***Were we forge the tools to help us analyze the word***
+***Were we forge the tools to help us understand the world***
 
 👋 Welcome to our GitHub! 
 
