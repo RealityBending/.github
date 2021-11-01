@@ -1,4 +1,3 @@
-![](https://github.com/RealityBending/.github/blob/main/profile/banner.png)
 
 # Reality Bending Lab (ReBeL)
 
