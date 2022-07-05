@@ -21,6 +21,9 @@ You can find here all the **open-source** projects that we (the *ReBeL* team) ar
 
 - [**TemplateResults**](https://github.com/RealityBending/TemplateResults): 📂 A template to use for your Supplementary Materials
 
+## Tasks and Paradigms
+
+- [**RestingState**](https://github.com/RealityBending/RestingState): Replicable Resting State Task (ReReST)
 
 ## Community, Jobs and Onboarding
 
