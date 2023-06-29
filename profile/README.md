@@ -10,6 +10,12 @@ You can find here all the **open-source** projects that we (the *ReBeL* team) ar
 
 👉 [**https://realitybending.github.io/**](https://realitybending.github.io/) 👈 
 
+## Useful Reads
+
+- [*Why is the logo a spoon?*](https://realitybending.github.io/post/2023-02-01-new_logo/)
+- [*What is Reality Bending?*](https://realitybending.github.io/research/)
+- [*Who is the ReBeL team?*](https://realitybending.github.io/people/)
+
 ## Software
 
 - [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): 🧠 The Python Toolbox for Neurophysiological Signal Processing
