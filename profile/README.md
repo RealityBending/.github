@@ -22,16 +22,15 @@ You can find here all the **open-source** projects that we (the *ReBeL* team) ar
 - [**Pyllusion**](https://github.com/RealityBending/Pyllusion): 🤯 A Python module for generating visual illusions 
 - [**PyShaman**](https://github.com/RealityBending/PyShaman): 🧙‍♂️ A Python software for inducing altered states of consciousness
 
-
-## Tools and Templates
-
-- [**TemplateResults**](https://github.com/RealityBending/TemplateResults): 📂 A template to use for your Supplementary Materials
-
 ## Tasks and Paradigms
 
 - [**RestingState**](https://github.com/RealityBending/RestingState): Replicable Resting State Task (ReReST)
 
 ## Community, Jobs and Onboarding
 
-- [**Jobs**](https://github.com/RealityBending/jobs): 🤗 Check-out the opened positions in our team!
+- [**Jobs**](https://realitybending.github.io/jobs/): 🤗 Check-out the opened positions in our team!
 - [**Onboarding**](https://github.com/RealityBending/Onboarding): 🚋 The must-read survival guide for working with us ☺️
+
+## Supplementary Materials
+
+- Makowski et al., (2023). [A novel visual illusion paradigm provides evidence for a general factor of illusion sensitivity and personality correlates](https://github.com/RealityBending/IllusionGameValidation). *Scientific Reports, 13*(1), 6594.
