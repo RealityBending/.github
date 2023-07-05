@@ -6,7 +6,7 @@
 
 Welcome to our GitHub 👋
 
-You can find here all the **open-source** projects that we (the *ReBeL* team) are currently working on. Check-out our website to know more about who we are, what research we do, and access our publications:  
+You can find here all the **open-source** projects that the lab is developping. Check out our website to know more about who we are, what research we do, and access our publications:  
 
 👉 [**https://realitybending.github.io/**](https://realitybending.github.io/) 👈 
 
