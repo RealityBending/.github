@@ -34,3 +34,4 @@ You can find here all the **open-source** projects that the lab is developping. 
 ## Supplementary Materials
 
 - Makowski et al., (2023). [A novel visual illusion paradigm provides evidence for a general factor of illusion sensitivity and personality correlates](https://github.com/RealityBending/IllusionGameValidation). *Scientific Reports, 13*(1), 6594.
+- Makowski et al., (2022). [The Structure of Chaos: An Empirical Comparison of Fractal Physiology Complexity Indices Using NeuroKit2](https://github.com/DominiqueMakowski/ComplexityStructure). *Entropy, 24*(8), 1036.
